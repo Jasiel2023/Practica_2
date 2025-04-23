@@ -9,6 +9,11 @@ public class LeerArchivo {
         try (InputStream is = LeerArchivo.class.getClassLoader().getResourceAsStream(nombreArchivo);
              Scanner scanner = new Scanner(is)) {
 
+            if (is == null) {
+                System.out.println("Archivo no encontrado en resources: " + nombreArchivo);
+                return lista;
+            }
+
             while (scanner.hasNextLine()) {
                 String linea = scanner.nextLine();
                 String[] partes = linea.split(",");
