@@ -1,0 +1,9 @@
+com/estructura/clase/taskmanagement/domain/Task.class
+com/estructura/clase/base/domain/package-info.class
+com/estructura/clase/taskmanagement/service/package-info.class
+com/estructura/clase/taskmanagement/domain/TaskRepository.class
+com/estructura/clase/taskmanagement/domain/package-info.class
+com/estructura/clase/base/domain/AbstractEntity.class
+com/estructura/clase/taskmanagement/package-info.class
+com/estructura/clase/taskmanagement/service/TaskService.class
+com/estructura/clase/Application.class

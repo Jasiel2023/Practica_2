@@ -1,0 +1,9 @@
+/home/jasiel/Descargas/estructura-clase/src/main/java/com/estructura/clase/Application.java
+/home/jasiel/Descargas/estructura-clase/src/main/java/com/estructura/clase/base/domain/AbstractEntity.java
+/home/jasiel/Descargas/estructura-clase/src/main/java/com/estructura/clase/base/domain/package-info.java
+/home/jasiel/Descargas/estructura-clase/src/main/java/com/estructura/clase/taskmanagement/domain/Task.java
+/home/jasiel/Descargas/estructura-clase/src/main/java/com/estructura/clase/taskmanagement/domain/TaskRepository.java
+/home/jasiel/Descargas/estructura-clase/src/main/java/com/estructura/clase/taskmanagement/domain/package-info.java
+/home/jasiel/Descargas/estructura-clase/src/main/java/com/estructura/clase/taskmanagement/package-info.java
+/home/jasiel/Descargas/estructura-clase/src/main/java/com/estructura/clase/taskmanagement/service/TaskService.java
+/home/jasiel/Descargas/estructura-clase/src/main/java/com/estructura/clase/taskmanagement/service/package-info.java

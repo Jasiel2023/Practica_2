@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/home/jasiel/Descargas/estructura-clase/src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/home/jasiel/Descargas/estructura-clase/src/main/frontend/generated/jar-resources",
+  "staticOutput": "/home/jasiel/Descargas/estructura-clase/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/home/jasiel/Descargas/estructura-clase/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/home/jasiel/Descargas/estructura-clase/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/home/jasiel/Descargas/estructura-clase/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/home/jasiel/Descargas/estructura-clase/target/dev-bundle/config",
+  "jarResourcesFolder": "/home/jasiel/Descargas/estructura-clase/src/main/frontend/generated/jar-resources",
+  "themeName": "default",
+  "clientServiceWorkerSource": "/home/jasiel/Descargas/estructura-clase/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
