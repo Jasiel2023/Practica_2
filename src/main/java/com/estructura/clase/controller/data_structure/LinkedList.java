@@ -1,7 +1,7 @@
 package com.estructura.clase.controller.data_structure;
 
 
-public class LinkendList<E> {
+public class LinkedList<E> {
     private Node<E> head;
     private Node<E> last;
     private Integer length;
@@ -15,7 +15,7 @@ public class LinkendList<E> {
         this.length = lenth;
     }
 
-    public LinkendList() {
+    public LinkedList() {
         this.head = null;
         this.last = null;
         this.length = 0;
@@ -167,8 +167,13 @@ public class LinkendList<E> {
 
     }
 
+    public Node<E> getHead() {
+        return this.head;
+    }
+    
+
     public static void main(String[] args){
-        LinkendList<Double> lista = new LinkendList<>();
+        LinkedList<Double> lista = new LinkedList<>();
         try {
             System.out.println("HOLA");
             // lista.update(10.00, 0);
@@ -195,5 +200,7 @@ public class LinkendList<E> {
         System.out.println(lista.print());
         System.out.println("FINAl");
     }
+
+   
 
 }
